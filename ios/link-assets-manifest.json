@@ -1,0 +1,97 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/app_images/avatar.png",
+      "sha1": "3455b9a804fed85c996001bfbcc73e6034bdf528"
+    },
+    {
+      "path": "src/assets/fonts/app_icons.ttf",
+      "sha1": "18e5fe2f93c853bbb495975f04df56438d595de5"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "src/assets/icons/icomoon.ttf",
+      "sha1": "dcdea0d009d4410f4224bdf588ae428b3ade08d4"
+    },
+    {
+      "path": "src/assets/icons/selection.json",
+      "sha1": "ce51371cd35819b23e7322061492f0218f2875c2"
+    },
+    {
+      "path": "src/assets/products/Angus/portrait/angus.jpg",
+      "sha1": "16d79eaf9dd134843fb7846947e65fb2913546ac"
+    },
+    {
+      "path": "src/assets/products/Angus/square/angus_square.jpg",
+      "sha1": "d762896579986c4368260cc36cc7b8e4b998a0f6"
+    },
+    {
+      "path": "src/assets/products/cochinillo/portrait/cochinillo.jpg",
+      "sha1": "447e929d7a83e20816c989668e2ca0f2fa9e84a2"
+    },
+    {
+      "path": "src/assets/products/cochinillo/square/cochinillo_square.jpg",
+      "sha1": "6e76090681fc6a04f960092f963b646f42325402"
+    },
+    {
+      "path": "src/assets/products/Lamb/portrait/lamb.jpg",
+      "sha1": "453f7f5e635fe11814f64908cdce195f21b1c204"
+    },
+    {
+      "path": "src/assets/products/Lamb/square/lamb_square.jpg",
+      "sha1": "743665a5d333f4664615fdfbece96f689d74ec49"
+    },
+    {
+      "path": "src/assets/products/Rib/portrait/rib.jpg",
+      "sha1": "1fa049778df8db2eb5586f0be3bc196a4c13c670"
+    },
+    {
+      "path": "src/assets/products/Rib/square/rib_square.jpg",
+      "sha1": "811a94505ce61227bfc84bfca68d52aa22458895"
+    },
+    {
+      "path": "src/assets/products/Turkey/portrait/turkey.jpg",
+      "sha1": "2bad058ad7081d3836c01edd4c1750b4dd34eb78"
+    },
+    {
+      "path": "src/assets/products/Turkey/square/turkey_square.jpg",
+      "sha1": "f28d758d64917520de51b6c76233e809b17c235b"
+    }
+  ]
+}
